@@ -44,7 +44,7 @@ public interface Dropbox
 	 * Created folder at mentioned path
 	 * 
 	 * @param folder
-	 * @return Metadata
+	 * @return metadata
 	 */
 	Metadata createFolder(String folder);
 	
