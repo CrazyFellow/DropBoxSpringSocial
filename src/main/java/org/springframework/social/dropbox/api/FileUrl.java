@@ -7,7 +7,6 @@ import java.util.Date;
  * File url can be shared or streamed as media
  * 
  * @author Raghava J
- *
  */
 public class FileUrl implements Serializable
 {
