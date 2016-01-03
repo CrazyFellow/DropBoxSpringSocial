@@ -49,7 +49,6 @@ public class DropboxUserProfile
 			String displayName, String email, BigInteger uid,
 			BigInteger sharedQuota, BigInteger quota, BigInteger normalQuota) 
 	{
-		super();
 		this.country = country;
 		this.referralLink = referralLink;
 		this.displayName = displayName;
